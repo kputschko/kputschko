@@ -6,7 +6,7 @@ Working as a Data Scientist in Grand Rapids, MI
 
 I work as a consulting data scientist with expertise in R. I've worked with many cutting edge R packages for both personal interest and professional development. 
 
-When it comes to R programming, I find my joy practicing data manipulation using the tidyverse. I love managing data pipelines using the 'targets' package in R, creating visualizations with 'ggplot2' and 'plotly', preparing reports using R Markdown and Quarto, along with creating interactive dashboards using 'flexdashboard' and 'shiny'.
+When it comes to R programming, I find my joy practicing data manipulation using the `tidyverse.` I consider myself an expert in managing data pipelines with the `targets` package in R, creating visualizations with `ggplot2` and `plotly`, preparing reports using `R Markdown` and `Quarto`, along with creating interactive dashboards using `flexdashboard` and `shiny`. 
 
 # Work Experiences
 
@@ -24,15 +24,15 @@ Working as a consulting data scientist, I have come into contact with many resea
 
 In R, I have experience with the following:
 
-- The 'tidyverse' family of packages
-- Building and documenting R packages with 'roxygen2', 'devtools', 'testthat'
-- Maintaining data pipelines using 'targets'
-- Building predictive models with 'sparklyr' and 'h2o'
-- Creating interactive visuals with 'ggplot2' and 'plotly'
-- Creating static and interactive reports with R Markdown and Quarto
-- Creating interactive dashboards using 'flexdashboard' and 'shiny'
+- The `tidyverse` family of packages
+- Building and documenting R packages with `roxygen2`, `devtools`, `testthat`
+- Maintaining data pipelines using `targets`
+- Building predictive models with `sparklyr` and `h2o`
+- Creating interactive visuals with `ggplot2` and `plotly`
+- Creating static and interactive reports with `R Markdown` and `Quarto`
+- Creating interactive dashboards using `flexdashboard` and `shiny`
 - GitHub version control
-- Creating web crawlers and using web based APIs with 'httr'
+- Creating web crawlers and using web based APIs with `httr`
 
 ## Microsoft
 ### Data Scientist Consultant; via Experis (2017 - 2018)
@@ -71,7 +71,7 @@ As a tutor in the GVSU stats lab, I worked among a team of other grad and underg
 ## The Salvation Army
 ### Direct Mail and Donor Relations Database Management Assistant (2013)
 
-I ensure accurate recording of incoming donations, along with balancing actual with expected donation amounts. Within the database, I would record data, resolve errors, and remove duplicates within the PledgeMaker database management system.
+I worked to ensure accurate recording of incoming donations, along with balancing actual with expected donation amounts. Within the database, I would record data, resolve errors, and remove duplicates within the PledgeMaker database management system.
 
 ## Columbia University
 ### Statistical Intern (2013)
